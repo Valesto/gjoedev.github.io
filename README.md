@@ -1,1 +1,1 @@
-https://gjoedev.github.io
+https://val.github.io
